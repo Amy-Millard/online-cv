@@ -14,19 +14,18 @@ sidebar:
     # Sidebar links
     email: amyvmillard@gmail.com
     phone: 07971 901686
-    website: blog.webjeda.com #do not add http://
-    linkedin: 
-    github: 
-    telegram: # add your nickname without '@' sign
+    website: amy-millard.github.io/online-cv/ #do not add http://
+    linkedin: https://www.linkedin.com/in/amy-millard-aws-cloud-practitioner/
+    github: amy-millard.github.io/online-cv/ #do not add http://
     languages:
       - idiom: English
         level: Native
 
     interests:
-      - item: Zumba
+      - item: Zumba - Instructor
         link:
 
-      - item: Rugby
+      - item: Rugby - Dings RFC Ladies
         link:
 
       - item: Reading
@@ -34,12 +33,10 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+    summary: Working on 12 week, full-time, classroom based skills development and training program on IT fundamentals, AWS Cloud, and professional skills.
+    Built IT fundamental skills, including: working knowledge of Linux OS, scripting in Python & Shell.
+Learned how to apply core AWS services in the area of compute, storage and networking, including EC2, S3, IAM, VPC, Lamda, Cloud Formation, RDS and Route 53.
+Demonstrated strong verbal and written communication skills, including the ability to explain technical information and terminology to non-technical end users e. Learned how to configure monitor and support the suite of core AWS services
       Second paragraph if required.
 education:
     - degree: MSc in Computer Science
