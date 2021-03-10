@@ -62,11 +62,9 @@ experiences:
       details: |
         Full-time classroom based skills development and training program on IT fundamentals, AWS Cloud, and professional skills. 
           - Built IT fundamental skills, including working knowledge of Linux OS, scripting in Python and Shell.
-        Learned how to apply core AWS services in the area of compute, storage and networking, including EC2, S3, IAM, 
-        VPC, Lambda, Cloud Formation, RDS and Route 53. Demonstrated strong verbal and written communication skills, including the ability
-        to explain technical information and terminology to non-technial end users.  Learned how to configure monitor and support the suite of core AWS services. 
-          - Built IT fun
-          - Bullet point
+          - Learned how to apply core AWS services in the area of compute, storage and networking, including EC2, S3, IAM, VPC, Lambda, Cloud Formation, RDS and Route 53. 
+          - Demonstrated strong verbal and written communication skills, including the ability to explain technical information and terminology to non-technial end users.  
+          - Learned how to configure monitor and support the suite of core AWS services.
     - role: Company Secretary/Bookkeeper/Office Manager
       time: 2016 - present
       company: Logical Projects Ltd, Bristol
