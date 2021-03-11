@@ -23,7 +23,7 @@ sidebar:
 
     interests:
       - item: Zumba - Instructor
-        link:
+        link: https://www.zumba.com/en-US/profile/amy-millard/245536
 
       - item: Rugby - Dings RFC Ladies
         link:
@@ -69,34 +69,32 @@ experiences:
       time: 2016 - present
       company: Logical Projects Ltd, Bristol
       details: |
-        Accounting, Bookkeeping and office managment responsibilities using Xero accounting software.
-        Account reconcilliation, including banking, allocation of credits and payments to correct accounts.
-        Vat returns.
-        Assisting with end of year account preparations.
-        Administration duties
-          - Bullet point
-          - Bullet point
+        Accounting, Bookkeeping and office managment responsibilities using Xero accounting software
+          - Account reconcilliation, including banking, allocation of credits and payments to correct accounts.
+          - Vat returns.
+          - Processing Coronavirus Job Retention Scheme claims.
+          - Assisting with end of year account preparations.
+          - Administration duties, including communication with clients & suppliers, chasing debtors, paying invoices.
     - role: Trade Mark Agent
       time: 2004 - 2009
       company: Stevens Hewlett & Perkins, Bristol
       details: |
-        Communicating daily with clients, agents and trade mark offices on a global scale. 
-        Drafting and filing new trade mark applications
-        Ensuring applications proceeded to registration
-        Protecting registered Trade Marks, filing objections (contentious and non contentious) to rival marks
-        Drafting licence agreements and contracts.
-          - Bullet point
-          - Bullet point
+        Fee Earning Trade Mark Agent responsible for >200 active contentious and non contentious cases.
+          - Communicating daily with clients, agents and trade mark offices on a global scale. 
+          - Drafting and filing new trade mark applications
+          - Ensuring applications proceeded to registration
+          - Protecting registered Trade Marks, filing objections to rival marks
+          - Attending and pleading cases at the Patent Office
+          - Drafting licence agreements and contracts
 projects:
-    title: Projects
+    title: Zumba
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have been a Licenced Zumba Instructor since 2011 running by own business, choreographing fun routines and promiting my classes online. 
+      Switching from live in person classes to online live classes when the pandemic hit using Zoom; recording classes, editing and posting on my webpage weekly.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Breastfeeding Peer Supporter
+        link: "I trained  as a Breast Feeding Peer Supporter in 2018, volunteering at my local health clinic weekly, moving to Zoom during the pandemic"
+        tagline: "The group I voluteer with was recognised on the Queen's honor list winning a Queen's awared for volunteering (MBE for groups)"
 
       - title: DevStudio
         link: "#"
