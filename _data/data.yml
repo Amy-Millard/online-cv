@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -87,74 +87,73 @@ experiences:
           - Attending and pleading cases at the Patent Office
           - Drafting licence agreements and contracts
 projects:
-    title: Zumba
+    title: Other Interests
     intro: >
-      I have been a Licenced Zumba Instructor since 2011 running by own business, choreographing fun routines and promiting my classes online. 
-      Switching from live in person classes to online live classes when the pandemic hit using Zoom; recording classes, editing and posting on my webpage weekly.
+      I have been raising a family along with the following: 
     assignments:
-      - title: Breastfeeding Peer Supporter
+      - title: "Barnardo's Volunteer"
         link: "I trained  as a Breast Feeding Peer Supporter in 2018, volunteering at my local health clinic weekly, moving to Zoom during the pandemic"
         tagline: "The group I voluteer with was recognised on the Queen's honor list winning a Queen's awared for volunteering (MBE for groups)"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Zumba
+        link: "I have been a Licenced Zumba Instructor since 2011 running by own business, choreographing fun routines and promiting my classes online. Switching from live in person classes to online live classes when the pandemic hit using Zoom; recording classes, editing and posting on my webpage weekly."
+        tagline: "I have taught and engaged with hundreds of people over the years - with my busiest class holding 120 people each week"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Lunch Break Supervisor
+        link: "During the Pandemic my children's school needed extra help with lunch times due to the new bubble system"
+        tagline: "I spend 3 lunch times each week looking after a group of children ensuring they stay safe during their lunch time"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: AAT - Bookkeeping
+        link: "My husband started his own company and required someone to look after his accounts."
+        tagline: "I researched the best approach to gain qualifications so I could confidentaly take on this role, I signed up with an on-line learning centre and passed the bookeeping exams with 93 and 99% grades"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+     # - title: Delta
+       # link: "#"
+       # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
+#publications:
+    #title: Publications
+   # intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    #papers:
+     # - title: The Art of Computer Programming
+       # link: "#"
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+     # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+       # link: "#"
+       # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+       # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      #- title: A syntax directed compiler for Algol 60
+      #  link: "#"
+        #authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+   # title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+   # toolset:
+     # - name: Python & Django
+       # level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+     # - name: Javascript & jQuery
+      #  level: 98%
 
-      - name: Angular
-        level: 98%
+      #- name: Angular
+       # level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+     # - name: HTML5 & CSS
+        #level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      #- name: Ruby on Rails
+       # level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      #- name: Sketch & Photoshop
+        #level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
